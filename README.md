@@ -82,7 +82,7 @@ The swagger will start at <http://localhost:9090/swagger-ui/>.
 
 **Application Jar**  [banking-system-1.0.0.jar](banking-system-1.0.0.jar)
 
-**API Documentation:** [Banking-System-Rest-Documentation.pdf](Banking-System-Rest-Documentation.pdf)
+**API Documentation:** [Banking-system-api-documentation.pdf](Banking-system-api-documentation.pdf)
 
 
 
